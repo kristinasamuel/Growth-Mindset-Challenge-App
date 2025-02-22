@@ -31,7 +31,7 @@ if page == "Home":
     st.write("""
         - **Easy File Upload**: Upload your CSV or Excel files effortlessly.
         - **Data Cleaning Tools**: Remove duplicates, fill missing values, and choose columns to work with.
-        - **Interactive Visualization**: Create bar charts and area charts to explore your data.
+        - **Interactive Visualization**: Create bar charts to explore your data.
         - **File Conversion**: Convert your cleaned data back to CSV or Excel format.
     """)
 
